@@ -29,7 +29,7 @@ Estimated Velocity: ~0 m/s
 
 After fixing some issues:
 
-Estimated Distance: -100 meters  
+Estimated Distance: 150-100 meters  
 Estimated Velocity: 50-30 m/s 
 
 ## Accuracy & Limitations
